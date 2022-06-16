@@ -1,3 +1,3 @@
 # Epam
 
-git remote remove origin
+Pattern practice
